@@ -4,7 +4,7 @@ Quebrador de senhas com o intuito de informar e ensinar às pessoas o quão frá
 * Projeto com uma interface intuitiva
 * O usuário coloca uma senha imaginária para teste
 * O programa usa uma tática de força bruta utilizando itertools e multi-threading.
-* O programa utiliza o dicionário RockYou com senhas adicionais utilizando um set() e variações de uma mesma senha (maiusculo, minusculo, capitalize)
+* O programa  pode opcionalemente utilizr um dicionário RockYou com senhas adicionais utilizando um set() e variações de uma mesma senha (maiusculo, minusculo, capitalize)
 
 Documentação:
 

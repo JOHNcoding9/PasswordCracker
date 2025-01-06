@@ -29,7 +29,6 @@ Cada linha do rockyou  é  atribuída á variável teste (teste = linha.strip().
                   dicionario.add(teste.capitalize())
 
 O dicionário é retornado.
-
 em casos de erro :
     except FileNotFoundError:
         print(f"Erro: Arquivo {arquivo} não encontrado.")
@@ -79,7 +78,7 @@ Checagem da escolha de caracteres feita pelo usuário na definição da função
         "tudo_lite": tudo_lite
     }
 
-   # Pega o conjunto de caracteres escolhido pelo usuario
+   Pega o conjunto de caracteres escolhido pelo usuario
   chars_escolhidos = conjuntos_caracteres.get(chars, numeros)  # padrão = numeros
 
 

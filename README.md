@@ -22,7 +22,7 @@ This tool helps users understand:
 To enable the dictionary-based password testing feature, follow these steps:
 
 1. Download the compressed file from the following official source:  
-   🔗 https://github.com/danielmiessler/SecLists/blob/master/Passwords/Leaked-Databases/rockyou.txt.tar.gz
+   🔗 https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt
 
 2. Extract the archive (`.tar.gz`) using any tool (e.g., 7-Zip, WinRAR, `tar` command).
 

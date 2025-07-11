@@ -17,6 +17,10 @@ This tool helps users understand:
 - The vulnerability of passwords present in known leaked dictionaries like **rockyou.txt**
 
 ---
+> 💡 The full `rockyou.txt` is not included due to GitHub file size limits.  
+You can download it here:
+https://github.com/danielmiessler/SecLists/blob/master/Passwords/Leaked-Databases/rockyou.txt.tar.gz
+
 
 ## 🧠 Features
 

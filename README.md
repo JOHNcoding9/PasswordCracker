@@ -24,11 +24,9 @@ To enable the dictionary-based password testing feature, follow these steps:
 1. Download the compressed file from the following official source:  
    🔗 https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt
 
-2. Extract the archive (`.tar.gz`) using any tool (e.g., 7-Zip, WinRAR, `tar` command).
+2. Rename the extracted file to `rockyou.txt` .
 
-3. Rename the extracted file to `rockyou.txt` .
-
-4. Place the `rockyou.txt` file in the **same directory** as `versao_multiprocess.py`.
+3. Place the `rockyou.txt` file in the **same directory** as `versao_multiprocess.py`.
 
 Once this is done, the dictionary attack feature will automatically load the file and compare input passwords against it.
 

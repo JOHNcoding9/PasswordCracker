@@ -64,6 +64,14 @@ Once this is done, the dictionary attack feature will automatically load the fil
 
 ---
 
+## 👤 Author
+
+João Vitor de Oliveira Lima
+
+📧 ghostcode541@gmail.com
+
+🔗 [LinkedIn](www.linkedin.com/in/joãovitordeoliveira-lima) --> www.linkedin.com/in/joãovitordeoliveira-lima
+
 ## 📦 Installation
 
 1. Clone the repository:

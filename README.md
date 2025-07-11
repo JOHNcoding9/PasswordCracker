@@ -69,6 +69,6 @@ Once this is done, the dictionary attack feature will automatically load the fil
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/PasswordCracker.git
+git clone https://github.com/JOHNcoding9/PasswordCracker.git
 cd PasswordCracker
 

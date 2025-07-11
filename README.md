@@ -17,9 +17,21 @@ This tool helps users understand:
 - The vulnerability of passwords present in known leaked dictionaries like **rockyou.txt**
 
 ---
-> 💡 The full `rockyou.txt` is not included due to GitHub file size limits.  
-You can download it here:
-https://github.com/danielmiessler/SecLists/blob/master/Passwords/Leaked-Databases/rockyou.txt.tar.gz
+> 💡 **Note:** The full `rockyou.txt` file is not included in this repository due to GitHub's file size limits.
+
+To enable the dictionary-based password testing feature, follow these steps:
+
+1. Download the compressed file from the following official source:  
+   🔗 https://github.com/danielmiessler/SecLists/blob/master/Passwords/Leaked-Databases/rockyou.txt.tar.gz
+
+2. Extract the archive (`.tar.gz`) using any tool (e.g., 7-Zip, WinRAR, `tar` command).
+
+3. Rename the extracted file to `rockyou.txt` .
+
+4. Place the `rockyou.txt` file in the **same directory** as `versao_multiprocess.py`.
+
+Once this is done, the dictionary attack feature will automatically load the file and compare input passwords against it.
+
 
 
 ## 🧠 Features
